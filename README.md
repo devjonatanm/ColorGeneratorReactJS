@@ -1,1 +1,1 @@
-# ColorGenerat
+# Color Generator React App
