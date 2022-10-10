@@ -1,2 +1,1 @@
-# ColorGeneratorReactJS
-Created with CodeSandbox
+# ColorGenerat
